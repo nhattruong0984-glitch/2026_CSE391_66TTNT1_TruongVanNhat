@@ -7,7 +7,7 @@ Lớp: 66TTNT1
 Mã sinh viên: 2451261041
 Email: nhattruong0984@gmail.com
 Github: https://github.com/nhattruong0984-glitch
-#📚 Giới thiệu môn học
+# 📚 Giới thiệu môn học
 Môn Nền tảng Lập trình Web (CSE391) trang bị cho sinh viên các kiến thức nền tảng và quan trọng trong phát triển website, bao gồm HTML để xây dựng cấu trúc trang, CSS để thiết kế giao diện và JavaScript để xử lý logic phía client. Thông qua môn học, sinh viên có thể tạo ra các website hoàn chỉnh, thân thiện với người dù
 # 🚀 Mục tiêu môn học
 Hiểu rõ quy trình quản lý mã nguồn với Git & GitHub.
